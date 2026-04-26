@@ -615,6 +615,9 @@ function applyLanguage(lang) {
   /* ─────────────────────────────────────────────────
      Inicialización: lee preferencia guardada o usa 'es'
   ───────────────────────────────────────────────── */
+window.translations = translations;
+window.applyLanguage = applyLanguage;
+
 (function init() {
     const savedLang = localStorage.getItem('biotrack-lang') || 'es';
     applyLanguage(savedLang);
