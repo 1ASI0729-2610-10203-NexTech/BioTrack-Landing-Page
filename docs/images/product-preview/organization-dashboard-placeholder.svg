@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">BioTrack organization dashboard placeholder</title>
+  <desc id="desc">Placeholder for the organization dashboard screenshot.</desc>
+  <rect width="960" height="600" rx="24" fill="#F8FAFB"/>
+  <rect x="52" y="48" width="856" height="504" rx="20" fill="#FFFFFF" stroke="#DDE7EF"/>
+  <rect x="92" y="88" width="300" height="28" rx="14" fill="#0F4C81"/>
+  <rect x="92" y="158" width="220" height="140" rx="18" fill="#EAF7F1"/>
+  <rect x="342" y="158" width="220" height="140" rx="18" fill="#EFF6FF"/>
+  <rect x="592" y="158" width="276" height="140" rx="18" fill="#F4F7FA"/>
+  <rect x="92" y="340" width="776" height="116" rx="18" fill="#FFFFFF" stroke="#DDE7EF"/>
+  <rect x="132" y="382" width="620" height="16" rx="8" fill="#10B981" opacity=".8"/>
+  <rect x="132" y="416" width="420" height="16" rx="8" fill="#0F4C81" opacity=".35"/>
+  <text x="92" y="520" fill="#0F4C81" font-family="Arial, sans-serif" font-size="24" font-weight="700">Organization dashboard</text>
+</svg>

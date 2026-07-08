@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">BioTrack nutritionist monitoring placeholder</title>
+  <desc id="desc">Placeholder for the nutritionist monitoring screenshot.</desc>
+  <rect width="960" height="600" rx="24" fill="#F8FAFB"/>
+  <rect x="52" y="48" width="856" height="504" rx="20" fill="#FFFFFF" stroke="#DDE7EF"/>
+  <rect x="52" y="48" width="220" height="504" rx="20" fill="#0F4C81"/>
+  <rect x="92" y="102" width="130" height="18" rx="9" fill="#FFFFFF" opacity=".9"/>
+  <rect x="92" y="160" width="140" height="16" rx="8" fill="#FFFFFF" opacity=".45"/>
+  <rect x="92" y="206" width="120" height="16" rx="8" fill="#FFFFFF" opacity=".45"/>
+  <rect x="312" y="92" width="240" height="28" rx="14" fill="#0F4C81"/>
+  <rect x="312" y="158" width="516" height="72" rx="14" fill="#F4F7FA"/>
+  <rect x="312" y="254" width="516" height="72" rx="14" fill="#EAF7F1"/>
+  <rect x="312" y="350" width="516" height="72" rx="14" fill="#F4F7FA"/>
+  <circle cx="352" cy="194" r="18" fill="#10B981"/>
+  <circle cx="352" cy="290" r="18" fill="#10B981"/>
+  <circle cx="352" cy="386" r="18" fill="#10B981"/>
+  <text x="312" y="502" fill="#0F4C81" font-family="Arial, sans-serif" font-size="24" font-weight="700">Nutritionist monitoring</text>
+</svg>
