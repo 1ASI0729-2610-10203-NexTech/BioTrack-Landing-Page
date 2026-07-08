@@ -61,8 +61,20 @@ body {
   background: var(--white);
   line-height: 1.6;
   overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+#site-header,
+#site-footer {
+  flex-shrink: 0;
+}
+
+body > main {
+  flex: 1 0 auto;
 }
 
 img {

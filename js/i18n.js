@@ -103,7 +103,7 @@ const translations = {
       "product-preview-card5-alt": "Vista del dashboard de organización en la aplicación web BioTrack",
 
       /* Video */
-      "video-eyebrow": "Nuestro Equipo",
+      "video-eyebrow": "Sobre el Equipo",
       "video-title":   "Conoce a las personas detrás de BioTrack",
       "video-desc":    "El equipo NexTech te presenta el proyecto y su visión.",
  
@@ -415,7 +415,7 @@ const translations = {
       "product-preview-card5-alt": "BioTrack organization dashboard web application view",
 
       /* Video */
-      "video-eyebrow": "Our Team",
+      "video-eyebrow": "About the Team",
       "video-title":   "Meet the people behind BioTrack",
       "video-desc":    "The NexTech team presents the project and its vision.",
  
