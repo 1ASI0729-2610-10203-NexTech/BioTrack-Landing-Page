@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">BioTrack progress tracking placeholder</title>
+  <desc id="desc">Placeholder for the progress tracking screenshot.</desc>
+  <rect width="960" height="600" rx="24" fill="#F8FAFB"/>
+  <rect x="52" y="48" width="856" height="504" rx="20" fill="#FFFFFF" stroke="#DDE7EF"/>
+  <rect x="92" y="88" width="276" height="28" rx="14" fill="#0F4C81"/>
+  <rect x="92" y="160" width="776" height="300" rx="18" fill="#F4F7FA"/>
+  <path d="M132 402 L230 354 L328 372 L426 300 L524 318 L622 246 L720 270 L828 208" fill="none" stroke="#10B981" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M132 402 L230 354 L328 372 L426 300 L524 318 L622 246 L720 270 L828 208 L828 440 L132 440 Z" fill="#10B981" opacity=".12"/>
+  <rect x="132" y="490" width="180" height="24" rx="12" fill="#10B981"/>
+  <rect x="340" y="490" width="180" height="24" rx="12" fill="#0F4C81" opacity=".3"/>
+  <text x="92" y="532" fill="#0F4C81" font-family="Arial, sans-serif" font-size="24" font-weight="700">Progress tracking</text>
+</svg>
